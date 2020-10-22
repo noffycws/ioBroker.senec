@@ -1,7 +1,7 @@
 {
   "name": "iobroker.senec",
-  "version": "1.0.10",
-  "description": "Senec Home V2.1",
+  "version": "1.0.11",
+  "description": "Senec Home",
   "author": {
     "name": "NoBl",
     "email": "github@bluemle.org"
