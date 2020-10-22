@@ -336,6 +336,7 @@ Here you can find a description of the states and how to use them. All states of
 ## Changelog
 ### dev (NoBl)
 * Update to current adapter template
+* Added Datapoints: PV1.MPP_CUR, MPP_VOL, MPP_POWER (former: MPP_INT which is unused at this moment but does still exist)
 
 ### 1.0.10 (NoBl, smartpran)
 * DateType objects are stored as date again
